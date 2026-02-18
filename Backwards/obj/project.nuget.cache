@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tVn+oJYDvz0=",
+  "success": true,
+  "projectFilePath": "/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/Backwards/WordComp.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuto/.nuget/packages/microsoft.dotnet.ilcompiler/10.0.1/microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512",
+    "/Users/yuto/.nuget/packages/microsoft.net.illink.tasks/10.0.1/microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "/Users/yuto/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/10.0.1/runtime.osx-arm64.microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512",
+    "/Users/yuto/.nuget/packages/microsoft.netcore.app.runtime.osx-arm64/10.0.1/microsoft.netcore.app.runtime.osx-arm64.10.0.1.nupkg.sha512",
+    "/Users/yuto/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/10.0.1/microsoft.aspnetcore.app.runtime.osx-arm64.10.0.1.nupkg.sha512",
+    "/Users/yuto/.nuget/packages/microsoft.netcore.app.runtime.nativeaot.osx-arm64/10.0.1/microsoft.netcore.app.runtime.nativeaot.osx-arm64.10.0.1.nupkg.sha512",
+    "/Users/yuto/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/10.0.1/runtime.osx-arm64.microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

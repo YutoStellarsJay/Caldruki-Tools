@@ -1,0 +1,14 @@
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/bin/Debug/net10.0/WordComp
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/bin/Debug/net10.0/WordComp.deps.json
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/bin/Debug/net10.0/WordComp.runtimeconfig.json
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/bin/Debug/net10.0/WordComp.dll
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/bin/Debug/net10.0/WordComp.pdb
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/WordComp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/WordComp.AssemblyInfoInputs.cache
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/WordComp.AssemblyInfo.cs
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/WordComp.csproj.CoreCompileInputs.cache
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/WordComp.dll
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/refint/WordComp.dll
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/WordComp.pdb
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/WordComp.genruntimeconfig.cache
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/WordComp/obj/Debug/net10.0/ref/WordComp.dll
