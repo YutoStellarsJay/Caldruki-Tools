@@ -1,0 +1,1 @@
+/Users/yuto/Programming/C#/Script/Tiny/CaldrukiTools/Backwards/bin/Release/net10.0/osx-arm64/publish/WordComp
